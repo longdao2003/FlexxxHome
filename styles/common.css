@@ -1,0 +1,168 @@
+.mr_t_36 {
+  margin-top: 36rem;
+}
+
+.mr_t_48 {
+  margin-top: 48rem;
+}
+
+.mr_t_12 {
+  margin-top: 12rem;
+}
+
+.mr_r_36 {
+  margin-right: 36rem;
+}
+
+.mr_r_24 {
+  margin-right: 24rem;
+}
+
+.mr_0_auto {
+  margin: 0 auto;
+}
+.mr_auto {
+  margin: auto;
+}
+.mr_t_18 {
+  margin-top: 18rem;
+}
+.pd_9_36_9_0 {
+  padding: 9rem 36rem 9rem 0;
+}
+
+.tower-clicked {
+  text-decoration: underline;
+  font-weight: 700;
+}
+.floor_circle {
+  width: 48rem;
+  height: 48rem;
+  border-radius: 50%;
+  line-height: 48rem;
+  text-align: center;
+  border: 1rem solid #3b3b3b;
+  gap: 24rem;
+}
+.floor-clicked {
+  background-color: black;
+  color: white;
+}
+.room_rectangle {
+  width: 384rem;
+  height: 210rem;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 8px;
+  border: 1px solid #ffffff;
+  background: #0000001a;
+  padding: 24rem;
+  margin-right: 24rem;
+}
+.room_img {
+  width: 162rem;
+  height: 162rem;
+}
+.room-rectangle-clicked {
+  background: #ffffff33;
+}
+
+.fw_700 {
+  font-weight: 700;
+}
+.fw_400 {
+  font-weight: 400;
+}
+.fs_16_lh_18_4 {
+  font-size: 16rem;
+  line-height: 18.4rem;
+}
+.fs_36_lh_41_4 {
+  font-size: 36rem;
+  line-height: 41.4rem;
+}
+.fs_24_lh_27_6 {
+  font-size: 24rem;
+  line-height: 27.6rem;
+}
+.flex {
+  display: flex;
+}
+.bd_t_bt_1_3b3b3b {
+  border-top: 1px solid #3b3b3b;
+  border-bottom: 1px solid #3b3b3b;
+}
+.bd_r_1_3b3b3b {
+  border-right: 1px solid #3b3b3b;
+}
+.footer-rectangle {
+  width: 83rem;
+  height: 18rem;
+  justify-content: space-beetween;
+}
+.hidden {
+  display: none;
+}
+.block {
+  display: block;
+}
+.of_hd {
+  overflow: hidden;
+}
+.ps_absolute {
+  position: absolute;
+}
+.ps_relative {
+  position: relative;
+}
+.footer-icon {
+  width: 18rem;
+  height: 18rem;
+}
+.arrow {
+  width: 36rem;
+  height: 12rem;
+}
+@media only screen and (max-width: 769px) {
+  .mr_tl_t_36 {
+    margin-top: 36rem;
+  }
+}
+@media only screen and (max-width: 481px) {
+  .pd_r_mb_12 {
+    padding-right: 12rem;
+  }
+  .pd_mb_5_24_5_0 {
+    padding: 5rem 24rem 5rem 0;
+  }
+  .mr_t_mb_24 {
+    margin-top: 24rem;
+  }
+  .mr_r_mb_12 {
+    margin-right: 12rem;
+  }
+  .mr_r_mb_24 {
+    margin-right: 24rem;
+  }
+  .mr_l_mb_36 {
+    margin-left: 36rem;
+  }
+  .hidden-mb {
+    display: none;
+  }
+  .inlineblock-mb {
+    display: inline-block;
+  }
+  .fs_mb_24_lh_27_6 {
+    font-size: 16rem;
+    line-height: 18.4rem;
+  }
+  .fs_mb_12_lh_13_8 {
+    font-size: 12rem;
+    line-height: 13.8rem;
+  }
+  .arrow-mb {
+    width: 12rem;
+    height: 36rem;
+  }
+}
