@@ -4,7 +4,6 @@
   }
   .container {
     width: 100vw;
-    aspect-ratio: 1940/1050;
   }
 }
 
@@ -14,10 +13,8 @@
   }
   .container {
     height: 100vh;
-    aspect-ratio: 1940/1050;
   }
 }
-
 * {
   margin: 0;
   padding: 0;
@@ -34,7 +31,9 @@ body {
 }
 .container {
   background-color: white;
+  aspect-ratio: 1940/1050;
 }
+
 .container_left {
   padding: 0 48rem;
   width: 670rem;
